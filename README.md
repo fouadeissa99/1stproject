@@ -2,4 +2,4 @@
 ## for learning
 ### all basics 
 #### okay ? 
-##### tmm ? 
+##### okay ? 
