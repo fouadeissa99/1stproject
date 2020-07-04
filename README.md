@@ -1,2 +1,3 @@
 # 1stproject
-for learning
+## for learning
+### all basics 
